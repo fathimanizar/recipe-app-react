@@ -1,0 +1,21 @@
+.nav
+{
+background: #128A85;
+background: linear-gradient(135deg, #128A85, #FFFFFF);
+
+}
+.footer
+{
+    background: #128A85;
+    background: linear-gradient(135deg, #128A85, #FFFFFF);
+    height:50px;
+}
+.active
+{
+    background-color: #128A85;
+}
+.card
+{
+    width:'200px';
+}
+
